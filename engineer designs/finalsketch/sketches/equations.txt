@@ -1,0 +1,6 @@
+"holebig"= .25in
+"holesmall"= .125in
+"insertasmall"=.126in
+"insertabig"=.251in
+"insertwsmall"=.128in
+"insertwbig"=.252in

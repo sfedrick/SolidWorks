@@ -1,0 +1,3 @@
+﻿"big diameter" = .98in
+"screw distance"= 0.71in
+"small cross holes"= 0.10in

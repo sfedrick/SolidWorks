@@ -1,0 +1,7 @@
+﻿"straightLength"= 4.0
+"barThickness"= .25
+"angle"= 150
+"handleDiam"= 1.0
+"handleLength"= 3.0
+"curvelength" = 0.898486
+"unbent"= 3.23552905in
